@@ -39,6 +39,9 @@ Postman
 
 Selenium IDE
 
+## [Projekt końcowy](https://github.com/Mateusz1310/Final-Project)
+Projekt, który wykonałem w celu skonsolidowania wiedzy zdobytej podczas kursu.
+
 ## Certyfikat ISTQB
 
 ![MATEUSZ_KACPRZAK_17977_CTFL_2022_PL-1](https://user-images.githubusercontent.com/96202468/165761241-229953c3-42d5-40b7-b74b-ff122314bab5.jpg)
