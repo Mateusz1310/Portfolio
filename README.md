@@ -1,6 +1,7 @@
 # Mateusz Kacprzak
 ## O mnie
 Cześć, nazywam się Mateusz Kacprzak, jestem początkującym testerem oprogramowania, w tym miejscu chciałbym podzielić się z Tobą moim doświadczeniem, które zdobyłem w tej dziedzinie.
+ZDJĘCIE
 ## Kurs Software Development Academy
 Miałem przyjemność uczestniczyć w kursie "Tester Oprogramowania" organizowanym przez Software Development Academy. Przez 116 godzin zajęć oraz wiele godzin poświęconych na pracę samodzielną zdobyłem wiedzę z następujących tematów:
 ![tester_oprogramowania-1](https://user-images.githubusercontent.com/96202468/165758992-2c2ad996-ced4-4b6c-a5f6-4f712b2e7ab2.jpg)
